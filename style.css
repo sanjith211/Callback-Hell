@@ -1,0 +1,9 @@
+#countDown {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 25%;
+    font-weight: 800;
+    /* padding: 50px; */
+    font-size: xxx-large;
+}
